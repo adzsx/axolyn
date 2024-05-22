@@ -28,4 +28,4 @@ scan google.com for directories in google.com/robots.txt, use 100 threads, only 
 <br>
 fuzz search parameter for google<br>
 `$ difugo -u google.com -p /search?q= -w ./wordlist.txt`<br>
-Note: This is completely useless, as every search will return a redirect or a 200, because it is a google search
+Note: This is completely useless, as every search will return a redirect or a 200, because it is a google search, I just couldn't think of a better example
